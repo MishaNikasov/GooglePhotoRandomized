@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "863782458726",
+    "firebase_url": "https://photorandomizer-86b78.firebaseio.com",
+    "project_id": "photorandomizer-86b78",
+    "storage_bucket": "photorandomizer-86b78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863782458726:android:bafcbf3bf7741d270fe4a7",
+        "android_client_info": {
+          "package_name": "com.nikasov.googlephotorandomized"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863782458726-kr6jdjlkl4aevt6sjbj3g6tdmtbsup2s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nikasov.googlephotorandomized",
+            "certificate_hash": "084c58e7a08aa9129853b9276cc786d262ca8319"
+          }
+        },
+        {
+          "client_id": "863782458726-fn3hsjf9avpfai1t4h1dog7h9h8d1765.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFJlhJZbFNQtj8_IQgqMfcqOhQyGY1A8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863782458726-fn3hsjf9avpfai1t4h1dog7h9h8d1765.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

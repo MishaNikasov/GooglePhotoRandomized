@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/authFragment"
+    tools:ignore="UnusedNavigation">
+
+    <action
+        app:popUpToInclusive="true"
+        android:id="@+id/toRootFragment"
+        app:destination="@id/rootFragment"/>
+
+    <fragment
+        android:id="@+id/rootFragment"
+        android:name="com.nikasov.googlephotorandomized.ui.fragment.root.RootFragment"
+        android:label="RootFragment" />
+
+    <fragment
+        android:id="@+id/authFragment"
+        android:name="com.nikasov.googlephotorandomized.ui.fragment.auth.AuthFragment"
+        android:label="AuthFragment" />
+</navigation>
